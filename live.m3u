@@ -1,4 +1,398 @@
 # booyakasha
+#EXTM3U#EXTINF:-1,---------------TV_AFRICAINES_cine
+http://ht.challenge.ovh:7040/live/157000/22432/8638.ts
+#EXTINF:-1,SN_TFM_OLE_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8405.ts
+#EXTINF:-1,SN_TOUBA_TV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8414.ts
+#EXTINF:-1,SN_TOUBA_MONDE_BI_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8415.ts
+#EXTINF:-1,SN_Tfm_Regional_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8407.ts
+#EXTINF:-1,SN_TFM_INFO
+http://ht.challenge.ovh:7040/live/157000/22432/8406.ts
+#EXTINF:-1,SN_Tfm_( Sengal )
+http://ht.challenge.ovh:7040/live/157000/22432/8404.ts
+#EXTINF:-1,SN_TELEECOLE_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8416.ts
+#EXTINF:-1,SN_Sikka_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8419.ts
+#EXTINF:-1,SN_RTS2_(SN2)_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8403.ts
+#EXTINF:-1,SN_QACAIDTV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8413.ts
+#EXTINF:-1,SN_Mouride_tv_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8410.ts
+#EXTINF:-1,SN_LSC_TV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8412.ts
+#EXTINF:-1,SN_Lamp_Fall_TV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8417.ts
+#EXTINF:-1,SN_Diaspora24_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8409.ts
+#EXTINF:-1,SN_Dakar_TV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8408.ts
+#EXTINF:-1,SN_BICHRI_TV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8411.ts
+#EXTINF:-1,SN_ALAZHARTOUBA_TV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8418.ts
+#EXTINF:-1,SN_3STV_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/8402.ts
+#EXTINF:-1,---- AFRICA CHANELS----
+http://ht.challenge.ovh:7040/live/157000/22432/8420.ts
+#EXTINF:-1,AFRO_Movies_Action_&_Adventure
+http://ht.challenge.ovh:7040/live/157000/22432/8451.ts
+#EXTINF:-1,AF_ZTV_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8502.ts
+#EXTINF:-1,AF_Zee_TV_India
+http://ht.challenge.ovh:7040/live/157000/22432/8432.ts
+#EXTINF:-1,af_Zee_TV_( South africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8433.ts
+#EXTINF:-1,AF_Zee_Punjabia
+http://ht.challenge.ovh:7040/live/157000/22432/8434.ts
+#EXTINF:-1,AF_Zee_Cinema
+http://ht.challenge.ovh:7040/live/157000/22432/8435.ts
+#EXTINF:-1,AF_World_Novela_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8436.ts
+#EXTINF:-1,AF_Vox_Africa
+http://ht.challenge.ovh:7040/live/157000/22432/8493.ts
+#EXTINF:-1,AF_Vision_TV4
+http://ht.challenge.ovh:7040/live/157000/22432/8532.ts
+#EXTINF:-1,AF_Urban_Music_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8558.ts
+#EXTINF:-1,AF_UBN_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8488.ts
+#EXTINF:-1,AF_TVT_International_( Togo )
+http://ht.challenge.ovh:7040/live/157000/22432/8468.ts
+#EXTINF:-1,AF_tvm3
+http://ht.challenge.ovh:7040/live/157000/22432/8542.ts
+#EXTINF:-1,AF_TVC_News_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8514.ts
+#EXTINF:-1,AF_TV3_Ghana
+http://ht.challenge.ovh:7040/live/157000/22432/8506.ts
+#EXTINF:-1,AF_TV_Mana_Maputo
+http://ht.challenge.ovh:7040/live/157000/22432/8533.ts
+#EXTINF:-1,AF_TV_Continental_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8512.ts
+#EXTINF:-1,AF_kedu ( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8501.ts
+#EXTINF:-1,AF_TRACE_UTBAN
+http://ht.challenge.ovh:7040/live/157000/22432/8543.ts
+#EXTINF:-1,AF_Trace_Sports
+http://ht.challenge.ovh:7040/live/157000/22432/8544.ts
+#EXTINF:-1,AF_Tele_Guinee
+http://ht.challenge.ovh:7040/live/157000/22432/8453.ts
+#EXTINF:-1,AF_Tele_Congo_TV_( Congo )
+http://ht.challenge.ovh:7040/live/157000/22432/8471.ts
+#EXTINF:-1,AF_TELE_50_( Congo )
+http://ht.challenge.ovh:7040/live/157000/22432/8472.ts
+#EXTINF:-1,AF_eritia_tv
+http://ht.challenge.ovh:7040/live/157000/22432/8534.ts
+#EXTINF:-1,AF_Stv2_( Cameroun )
+http://ht.challenge.ovh:7040/live/157000/22432/8526.ts
+#EXTINF:-1,AF_somalilandnat_TV_( Somali )
+http://ht.challenge.ovh:7040/live/157000/22432/8519.ts
+#EXTINF:-1,AF_Somali_Cable_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8522.ts
+#EXTINF:-1,AF_Somali_Africa_TV4
+http://ht.challenge.ovh:7040/live/157000/22432/8523.ts
+#EXTINF:-1,AF_SNTV_( Somali )
+http://ht.challenge.ovh:7040/live/157000/22432/8520.ts
+#EXTINF:-1,AF_Smiling_Coast_tv
+http://ht.challenge.ovh:7040/live/157000/22432/8457.ts
+#EXTINF:-1,AF_Senamerican_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8517.ts
+#EXTINF:-1,AF_RWANDA_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8549.ts
+#EXTINF:-1,AF_RTVS1_( Congo )
+http://ht.challenge.ovh:7040/live/157000/22432/8473.ts
+#EXTINF:-1,AF_RTP_AFRICA
+http://ht.challenge.ovh:7040/live/157000/22432/8547.ts
+#EXTINF:-1,AF_RTNC_( Congo )
+http://ht.challenge.ovh:7040/live/157000/22432/8470.ts
+#EXTINF:-1,AF_RTGA
+http://ht.challenge.ovh:7040/live/157000/22432/8531.ts
+#EXTINF:-1,AF_RTB
+http://ht.challenge.ovh:7040/live/157000/22432/8548.ts
+#EXTINF:-1,AF_Royal_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8426.ts
+#EXTINF:-1,AF_Rhema_TV_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8484.ts
+#EXTINF:-1,AF_RDV_( Gambia )
+http://ht.challenge.ovh:7040/live/157000/22432/8528.ts
+#EXTINF:-1,AF_RANA_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8437.ts
+#EXTINF:-1,AF_Raby_TV_( Mali )
+http://ht.challenge.ovh:7040/live/157000/22432/8476.ts
+#EXTINF:-1,AF_R2TV_(Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8508.ts
+#EXTINF:-1,AF_R2TV
+http://ht.challenge.ovh:7040/live/157000/22432/8550.ts
+#EXTINF:-1,AF_Planet_RTV_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8495.ts
+#EXTINF:-1,AF_Planet_RadioTV_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8497.ts
+#EXTINF:-1,AF_PEACE_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8454.ts
+#EXTINF:-1,AF_ORTB_TV_( Benini )
+http://ht.challenge.ovh:7040/live/157000/22432/8421.ts
+#EXTINF:-1,AF_Oromiyaa_TV_( Ethiopia )
+http://ht.challenge.ovh:7040/live/157000/22432/8539.ts
+#EXTINF:-1,AF_OJI_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8438.ts
+#EXTINF:-1,AF_Ogun_State_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8439.ts
+#EXTINF:-1,AF_NTV2_Musique_( Mali )
+http://ht.challenge.ovh:7040/live/157000/22432/8478.ts
+#EXTINF:-1,AF_NTV_( Uganda )
+http://ht.challenge.ovh:7040/live/157000/22432/8427.ts
+#EXTINF:-1,AF_Novelos_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8440.ts
+#EXTINF:-1,AF_Nollywood_Premier
+http://ht.challenge.ovh:7040/live/157000/22432/8465.ts
+#EXTINF:-1,AF_Nollywood_Movies
+http://ht.challenge.ovh:7040/live/157000/22432/8464.ts
+#EXTINF:-1,AF_Nikadys_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8458.ts
+#EXTINF:-1,AF_METRO_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8441.ts
+#EXTINF:-1,AF_MEDI_BIZ_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8442.ts
+#EXTINF:-1,AF_Mauritanie_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8455.ts
+#EXTINF:-1,AF_ManaSat_MZ
+http://ht.challenge.ovh:7040/live/157000/22432/8529.ts
+#EXTINF:-1,AF_MAISHA_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8556.ts
+#EXTINF:-1,AF_LoveWorldSAT_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8489.ts
+#EXTINF:-1,AF_Liberte_TV_( Mali )
+http://ht.challenge.ovh:7040/live/157000/22432/8459.ts
+#EXTINF:-1,AF_LC2_( Benin )
+http://ht.challenge.ovh:7040/live/157000/22432/8483.ts
+#EXTINF:-1,AF_Kurios_TV_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8491.ts
+#EXTINF:-1,AF_KTN_TV_( Somalia )
+http://ht.challenge.ovh:7040/live/157000/22432/8521.ts
+#EXTINF:-1,AF_Kruiskyk_TV_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8492.ts
+#EXTINF:-1,AF_Kessben_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8443.ts
+#EXTINF:-1,AF_Kalsan_TV_Somali
+http://ht.challenge.ovh:7040/live/157000/22432/8524.ts
+#EXTINF:-1,AF_Jubbaland_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8460.ts
+#EXTINF:-1,AF_Joy_News_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8499.ts
+#EXTINF:-1,AF_ISLAM_CHANNEL
+http://ht.challenge.ovh:7040/live/157000/22432/8559.ts
+#EXTINF:-1,AF_Info_Burkina
+http://ht.challenge.ovh:7040/live/157000/22432/8425.ts
+#EXTINF:-1,AF_HCT
+http://ht.challenge.ovh:7040/live/157000/22432/8560.ts
+#EXTINF:-1,AF_GTV_SPORTS_PLUS_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8498.ts
+#EXTINF:-1,AF_GTV_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8505.ts
+#EXTINF:-1,AF_GRTS_TV_( Gambia )
+http://ht.challenge.ovh:7040/live/157000/22432/8527.ts
+#EXTINF:-1,AF_GOLF_INTERNATIONAL
+http://ht.challenge.ovh:7040/live/157000/22432/8428.ts
+#EXTINF:-1,AF_GH_ONE_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8500.ts
+#EXTINF:-1,AF_Gambia_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8456.ts
+#EXTINF:-1,AF_Gabon_TV_( Gabon )
+http://ht.challenge.ovh:7040/live/157000/22432/8479.ts
+#EXTINF:-1,AF_Fusion_Plus_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8536.ts
+#EXTINF:-1,AF_Frenchwood_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8444.ts
+#EXTINF:-1,AF_Freedom_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8445.ts
+#EXTINF:-1,AF_Fashion_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8561.ts
+#EXTINF:-1,AF_EWTN_Africa_&_India
+http://ht.challenge.ovh:7040/live/157000/22432/8562.ts
+#EXTINF:-1,AF_ESPACE_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8541.ts
+#EXTINF:-1,AF_ERBU_AFFRICA
+http://ht.challenge.ovh:7040/live/157000/22432/8563.ts
+#EXTINF:-1,AF_Equinoxe_TV_( Cameroun )
+http://ht.challenge.ovh:7040/live/157000/22432/8525.ts
+#EXTINF:-1,AF_Elshaddai_Television_Network_( Ethiopienne )
+http://ht.challenge.ovh:7040/live/157000/22432/8564.ts
+#EXTINF:-1,AF_EDEN_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8429.ts
+#EXTINF:-1,AF_EBC2_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8538.ts
+#EXTINF:-1,AF_East_Africa_TV5
+http://ht.challenge.ovh:7040/live/157000/22432/8423.ts
+#EXTINF:-1,AF_Dunamis_tv_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8516.ts
+#EXTINF:-1,AF_Dove_TÃ©lÃ©vision_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8509.ts
+#EXTINF:-1,AF_Divine_Truth_(WRS)_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8490.ts
+#EXTINF:-1,AF_Digital_Congo_TV_( Congo )
+http://ht.challenge.ovh:7040/live/157000/22432/8469.ts
+#EXTINF:-1,AF_Cusinet_Tropikal_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8446.ts
+#EXTINF:-1,AF_Congo_Planet_TV_(Congolese Music)
+http://ht.challenge.ovh:7040/live/157000/22432/8475.ts
+#EXTINF:-1,AF_Cnbc_Africa_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8485.ts
+#EXTINF:-1,AF_Cine_Stream_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8565.ts
+#EXTINF:-1,AF_Cine_Plus_Africa_( Ghana )
+http://ht.challenge.ovh:7040/live/157000/22432/8496.ts
+#EXTINF:-1,AF_CINE_AFRIKA
+http://ht.challenge.ovh:7040/live/157000/22432/8553.ts
+#EXTINF:-1,AF_Christian_TV_( RTV )
+http://ht.challenge.ovh:7040/live/157000/22432/8566.ts
+#EXTINF:-1,AF_Cherifa_TV_( Mali )
+http://ht.challenge.ovh:7040/live/157000/22432/8477.ts
+#EXTINF:-1,AF_Channels_Television_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8510.ts
+#EXTINF:-1,AF_Centra_Afrique_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8424.ts
+#EXTINF:-1,AF_Canal_3_TV_( Niger )
+http://ht.challenge.ovh:7040/live/157000/22432/8430.ts
+#EXTINF:-1,AF_Canal_3_( Benin )
+http://ht.challenge.ovh:7040/live/157000/22432/8480.ts
+#EXTINF:-1,AF_Canal_225_TV_( Benin )
+http://ht.challenge.ovh:7040/live/157000/22432/8482.ts
+#EXTINF:-1,AF_Bride_TV_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8511.ts
+#EXTINF:-1,AF_Bollywood_TV_( B4U )
+http://ht.challenge.ovh:7040/live/157000/22432/8447.ts
+#EXTINF:-1,AF_BF1
+http://ht.challenge.ovh:7040/live/157000/22432/8463.ts
+#EXTINF:-1,AF_BET_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8448.ts
+#EXTINF:-1,AF_Benie_TV_( Benin )
+http://ht.challenge.ovh:7040/live/157000/22432/8481.ts
+#EXTINF:-1,AF_Ben_TV_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8507.ts
+#EXTINF:-1,AF_BEN_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8551.ts
+#EXTINF:-1,AF_B_ONE_TV_( Congo )
+http://ht.challenge.ovh:7040/live/157000/22432/8467.ts
+#EXTINF:-1,AF_ATV
+http://ht.challenge.ovh:7040/live/157000/22432/8461.ts
+#EXTINF:-1,AF_Arewa24
+http://ht.challenge.ovh:7040/live/157000/22432/8452.ts
+#EXTINF:-1,AF_ALL_MUSIC
+http://ht.challenge.ovh:7040/live/157000/22432/8568.ts
+#EXTINF:-1,AF_Al_Quraan_Al_Kareem_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8569.ts
+#EXTINF:-1,AF_AIT_INTERNATIONAL
+http://ht.challenge.ovh:7040/live/157000/22432/8449.ts
+#EXTINF:-1,AF_Afro_Music_HD
+http://ht.challenge.ovh:7040/live/157000/22432/8422.ts
+#EXTINF:-1,AF_Afrique_Media_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8486.ts
+#EXTINF:-1,AF_Africawood_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8518.ts
+#EXTINF:-1,AF_Africa_TV4
+http://ht.challenge.ovh:7040/live/157000/22432/8570.ts
+#EXTINF:-1,AF_Africa_TV3
+http://ht.challenge.ovh:7040/live/157000/22432/8571.ts
+#EXTINF:-1,AF_Africa_TV2
+http://ht.challenge.ovh:7040/live/157000/22432/8572.ts
+#EXTINF:-1,AF_Africa_TV1
+http://ht.challenge.ovh:7040/live/157000/22432/8573.ts
+#EXTINF:-1,AF_Africa_News_Network7_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8487.ts
+#EXTINF:-1,AF_Africa_Cable
+http://ht.challenge.ovh:7040/live/157000/22432/8574.ts
+#EXTINF:-1,AF_AFRICA_24
+http://ht.challenge.ovh:7040/live/157000/22432/8575.ts
+#EXTINF:-1,AF_ADOM_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8576.ts
+#EXTINF:-1,AF_ADBN_( South Africa )
+http://ht.challenge.ovh:7040/live/157000/22432/8494.ts
+#EXTINF:-1,AF_ABN_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8450.ts
+#EXTINF:-1,AF_Abidjan_TV_( Cote dâ€™ivoire )
+http://ht.challenge.ovh:7040/live/157000/22432/8466.ts
+#EXTINF:-1,AF_3_Stones_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8462.ts
+#EXTINF:-1,AF_Tele_Sahel_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/8515.ts
+#EXTINF:-1,AF_Mali_TV
+http://ht.challenge.ovh:7040/live/157000/22432/8577.ts
+#EXTINF:-1,AF_EWTN
+http://ht.challenge.ovh:7040/live/157000/22432/8578.ts
+#EXTINF:-1,AF_ESTV
+http://ht.challenge.ovh:7040/live/157000/22432/8579.ts
+#EXTINF:-1,AF_SenTV_HD
+http://ht.challenge.ovh:7040/live/157000/22432/7916.ts
+#EXTINF:-1,AF_2STV
+http://ht.challenge.ovh:7040/live/157000/22432/7910.ts
+#EXTINF:-1,AF_Walf_TV_Senegal
+http://ht.challenge.ovh:7040/live/157000/22432/7911.ts
+#EXTINF:-1,AF_RTS1_Senegal
+http://ht.challenge.ovh:7040/live/157000/22432/7922.ts
+#EXTINF:-1,AF_RTi2_( Cote d
+http://ht.challenge.ovh:7040/live/157000/22432/7923.ts
+#EXTINF:-1,RTB
+http://ht.challenge.ovh:7040/live/157000/22432/8064.ts
+#EXTINF:-1,Impactv
+http://ht.challenge.ovh:7040/live/157000/22432/8061.ts
+#EXTINF:-1,Cinema_sen
+http://ht.challenge.ovh:7040/live/157000/22432/8060.ts
+#EXTINF:-1,AF_TVC
+http://ht.challenge.ovh:7040/live/157000/22432/7912.ts
+#EXTINF:-1,AF_TV_Somali_HD
+http://ht.challenge.ovh:7040/live/157000/22432/7913.ts
+#EXTINF:-1,AF_TPA_Angola
+http://ht.challenge.ovh:7040/live/157000/22432/7914.ts
+#EXTINF:-1,AF_TM2_MALI
+http://ht.challenge.ovh:7040/live/157000/22432/7915.ts
+#EXTINF:-1,AF_TELE_TCHAD
+http://ht.challenge.ovh:7040/live/157000/22432/7917.ts
+#EXTINF:-1,AF_Rti1
+http://ht.challenge.ovh:7040/live/157000/22432/7924.ts
+#EXTINF:-1,AF_Rave_TV_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/7918.ts
+#EXTINF:-1,AF_NTAi_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/7926.ts
+#EXTINF:-1,AF_NollyWood_French
+http://ht.challenge.ovh:7040/live/157000/22432/7927.ts
+#EXTINF:-1,AF_MUSIC_TV_SENEGAL
+http://ht.challenge.ovh:7040/live/157000/22432/7928.ts
+#EXTINF:-1,Af_Mouride_tv_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/7919.ts
+#EXTINF:-1,AF_Mfm_TV
+http://ht.challenge.ovh:7040/live/157000/22432/7929.ts
+#EXTINF:-1,AF_Love_World_Plus_(Nigeria)
+http://ht.challenge.ovh:7040/live/157000/22432/7930.ts
+#EXTINF:-1,AF_K24_Kenya
+http://ht.challenge.ovh:7040/live/157000/22432/7931.ts
+#EXTINF:-1,AF_Emmanuel_TV_( Nigeria )
+http://ht.challenge.ovh:7040/live/157000/22432/7932.ts
+#EXTINF:-1,AF_ELECTRON_TV_( Chad )
+http://ht.challenge.ovh:7040/live/157000/22432/7933.ts
+#EXTINF:-1,AF_Diaspora24_( Senegal )
+http://ht.challenge.ovh:7040/live/157000/22432/7939.ts
+#EXTINF:-1,AF_CRTV
+http://ht.challenge.ovh:7040/live/157000/22432/7934.ts
+#EXTINF:-1,AF_Cine24_Gambia
+http://ht.challenge.ovh:7040/live/157000/22432/7935.ts
+#EXTINF:-1,AF_Canal2
+http://ht.challenge.ovh:7040/live/157000/22432/7937.ts
+#EXTINF:-1,AF_Aci_TV_( OM5 TV )
+http://ht.challenge.ovh:7040/live/157000/22432/7938.ts
+#EXTINF:-1,Ortm
+http://ht.challenge.ovh:7040/live/157000/22432/328.ts
+#EXTINF:-1,erttria_afric
+http://ht.challenge.ovh:7040/live/157000/22432/232.ts
+#EXTINF:-1,---- AFRIQUE ----
+http://ht.challenge.ovh:7040/live/157000/22432/7909.ts
+
+
+List 2 
+
 #EXTM3U
 #EXTINF:-1,***** AFRICAN *****
 http://boxiptv.noip.us:9998/live/testt/testt/1534.ts
@@ -94,7 +488,7 @@ http://boxiptv.noip.us:9998/live/testt/testt/1477.ts
 http://boxiptv.noip.us:9998/live/testt/testt/1478.ts
 #EXTINF:-1,AFR-BENIE TV
 http://boxiptv.noip.us:9998/live/testt/testt/1479.ts
-#EXTINF:-1,AFR-Assembl¨¦e Nationale
+#EXTINF:-1,AFR-AssemblÂ¨Â¦e Nationale
 http://boxiptv.noip.us:9998/live/testt/testt/1480.ts
 #EXTINF:-1,AF: Walf TV Senegal
 http://boxiptv.noip.us:9998/live/testt/testt/1610.ts
@@ -106,7 +500,7 @@ http://boxiptv.noip.us:9998/live/testt/testt/1483.ts
 http://boxiptv.noip.us:9998/live/testt/testt/1484.ts
 #EXTINF:-1,AFR-Afrique media TV
 http://boxiptv.noip.us:9998/live/testt/testt/1485.ts
-#EXTINF:-1,AFR-Africa:TV Man¨¢-Maputo
+#EXTINF:-1,AFR-Africa:TV ManÂ¨Â¢-Maputo
 http://boxiptv.noip.us:9998/live/testt/testt/1486.ts
 #EXTINF:-1,AFR-ADTV
 http://boxiptv.noip.us:9998/live/testt/testt/1487.ts
@@ -158,212 +552,5 @@ http://boxiptv.noip.us:9998/movie/testt/testt/1963.mkv
 http://boxiptv.noip.us:9998/movie/testt/testt/1962.mkv
 #EXTINF:-1,The Big Short 2015
 http://boxiptv.noip.us:9998/movie/testt/testt/2007.avi
-
-
-#EXTINF:-1,AF-Somali_nation TV
-http://37.187.175.177:8000/live/00826/00826/1390.ts
-#EXTINF:-1,AF-Somali-Cable
-http://37.187.175.177:8000/live/00826/00826/1676.ts
-#EXTINF:-1,AF-Somaliland_TV
-http://37.187.175.177:8000/live/00826/00826/1389.ts
-#EXTINF:-1,AF-TV4 (somali)
-http://37.187.175.177:8000/live/00826/00826/651.ts
-#EXTINF:-1,AF-SBC_somali
-http://37.187.175.177:8000/live/00826/00826/1375.ts
-#EXTINF:-1,AF-Kalsan-TV_somail
-http://37.187.175.177:8000/live/00826/00826/1374.ts
-#EXTINF:-1,AF-ESTV(somali)
-http://37.187.175.177:8000/live/00826/00826/2026.ts
-#EXTINF:-1,AF-ETHIOPIA_TV
-http://37.187.175.177:8000/live/00826/00826/880.ts
-#EXTINF:-1,AF-EBC3
-http://37.187.175.177:8000/live/00826/00826/1392.ts
-#EXTINF:-1,AF-Africa TV3
-http://37.187.175.177:8000/live/00826/00826/2054.ts
-#EXTINF:-1,AF-Africa TV2
-http://37.187.175.177:8000/live/00826/00826/2140.ts
-#EXTINF:-1,AFC-Tiwantiwa TV
-http://37.187.175.177:8000/live/00826/00826/2496.ts
-#EXTINF:-1,AF-Ait International
-http://37.187.175.177:8000/live/00826/00826/1707.ts
-#EXTINF:-1,AF-ERITRIA-tv
-http://37.187.175.177:8000/live/00826/00826/1552.ts
-#EXTINF:-1,AF-Nollywood_Movies
-http://37.187.175.177:8000/live/00826/00826/2020.ts
-#EXTINF:-1,AFC-Igboro Moives 24h
-http://37.187.175.177:8000/live/00826/00826/2316.ts
-#EXTINF:-1,AF-Nollywood_premier
-http://37.187.175.177:8000/live/00826/00826/2019.ts
-#EXTINF:-1,AF: Cine stream TV
-http://37.187.175.177:8000/live/00826/00826/2502.ts
-#EXTINF:-1,AF-Africable TV
-http://37.187.175.177:8000/live/00826/00826/1492.ts
-#EXTINF:-1,AF-VOX Africa
-http://37.187.175.177:8000/live/00826/00826/1663.ts
-#EXTINF:-1,AF-RTG
-http://37.187.175.177:8000/live/00826/00826/628.ts
-#EXTINF:-1,AF-RTG FM
-http://37.187.175.177:8000/live/00826/00826/2023.ts
-#EXTINF:-1,AF-Guinee music FM
-http://37.187.175.177:8000/live/00826/00826/1578.ts
-#EXTINF:-1,AF-Espace FM guinee
-http://37.187.175.177:8000/live/00826/00826/2507.ts
-#EXTINF:-1,AF-TFM redirect_TV
-http://37.187.175.177:8000/live/00826/00826/656.ts
-#EXTINF:-1,AF-OBS
-http://37.187.175.177:8000/live/00826/00826/2119.ts
-#EXTINF:-1,AF-KTN news
-http://37.187.175.177:8000/live/00826/00826/756.ts
-#EXTINF:-1,AF-TELE50(congo)
-http://37.187.175.177:8000/live/00826/00826/1556.ts
-#EXTINF:-1,AF-TVT(Togo)
-http://37.187.175.177:8000/live/00826/00826/650.ts
-#EXTINF:-1,AF-TV_Congo
-http://37.187.175.177:8000/live/00826/00826/1670.ts
-#EXTINF:-1,AF-Neema TV congo
-http://37.187.175.177:8000/live/00826/00826/2230.ts
-#EXTINF:-1,AF-EPV TV CONGO
-http://37.187.175.177:8000/live/00826/00826/2062.ts
-#EXTINF:-1,AF-OnewoTV Congo
-http://37.187.175.177:8000/live/00826/00826/483.ts
-#EXTINF:-1,AF-canal cvv(congo)
-http://37.187.175.177:8000/live/00826/00826/2317.ts
-#EXTINF:-1,AF-RTNC
-http://37.187.175.177:8000/live/00826/00826/1497.ts
-#EXTINF:-1,AF-Desco Tv congo
-http://37.187.175.177:8000/live/00826/00826/1671.ts
-#EXTINF:-1,AF-B_ONE(Congo)
-http://37.187.175.177:8000/live/00826/00826/626.ts
-#EXTINF:-1,AF-GTV Ghana
-http://37.187.175.177:8000/live/00826/00826/878.ts
-#EXTINF:-1,AF-GTV prime
-http://37.187.175.177:8000/live/00826/00826/2143.ts
-#EXTINF:-1,AF-GTV sports
-http://37.187.175.177:8000/live/00826/00826/480.ts
-#EXTINF:-1,AF-kedu tv
-http://37.187.175.177:8000/live/00826/00826/2063.ts
-#EXTINF:-1,AF-TV3
-http://37.187.175.177:8000/live/00826/00826/1672.ts
-#EXTINF:-1,AF-Joy News
-http://37.187.175.177:8000/live/00826/00826/2049.ts
-#EXTINF:-1,Af-GEC ghana
-http://37.187.175.177:8000/live/00826/00826/2131.ts
-#EXTINF:-1,AF-Chosen TV
-http://37.187.175.177:8000/live/00826/00826/2060.ts
-#EXTINF:-1,AF-Adome TV
-http://37.187.175.177:8000/live/00826/00826/2129.ts
-#EXTINF:-1,AF-NTAi(Nigeria)
-http://37.187.175.177:8000/live/00826/00826/1675.ts
-#EXTINF:-1,AF-TV_CONTINENTAL
-http://37.187.175.177:8000/live/00826/00826/464.ts
-#EXTINF:-1,AF-TVC_News
-http://37.187.175.177:8000/live/00826/00826/774.ts
-#EXTINF:-1,Af-Channels TV
-http://37.187.175.177:8000/live/00826/00826/2061.ts
-#EXTINF:-1,AF: Abn TV
-http://37.187.175.177:8000/live/00826/00826/2508.ts
-#EXTINF:-1,AF-EMMANUEL_TV
-http://37.187.175.177:8000/live/00826/00826/1584.ts
-#EXTINF:-1,AF-LoveWorld+
-http://37.187.175.177:8000/live/00826/00826/2025.ts
-#EXTINF:-1,AF-BEN_TV(ng)
-http://37.187.175.177:8000/live/00826/00826/1528.ts
-#EXTINF:-1,AF-Dove TV
-http://37.187.175.177:8000/live/00826/00826/1677.ts
-#EXTINF:-1,AF-ERBU AFFRICA
-http://37.187.175.177:8000/live/00826/00826/630.ts
-#EXTINF:-1,AF: Elshaddai TV
-http://37.187.175.177:8000/live/00826/00826/2504.ts
-#EXTINF:-1,AF-Crtv(Cameroun)
-http://37.187.175.177:8000/live/00826/00826/1387.ts
-#EXTINF:-1,Af-Stv2(Cameroun)
-http://37.187.175.177:8000/live/00826/00826/2133.ts
-#EXTINF:-1,AF-Canal2_Info(cameroun)
-http://37.187.175.177:8000/live/00826/00826/1543.ts
-#EXTINF:-1,AF-Sikka TV
-http://37.187.175.177:8000/live/00826/00826/1668.ts
-#EXTINF:-1,AF-TVM3
-http://37.187.175.177:8000/live/00826/00826/2128.ts
-#EXTINF:-1,AF-OMNI2
-http://37.187.175.177:8000/live/00826/00826/2315.ts
-#EXTINF:-1,AF-Gabon 24
-http://37.187.175.177:8000/live/00826/00826/643.ts
-#EXTINF:-1,AF-Dove ng
-http://37.187.175.177:8000/live/00826/00826/2055.ts
-#EXTINF:-1,AF-Christian TV(RTV)
-http://37.187.175.177:8000/live/00826/00826/487.ts
-#EXTINF:-1,AF-RTB
-http://37.187.175.177:8000/live/00826/00826/2056.ts
-#EXTINF:-1,AF-walf tv
-http://37.187.175.177:8000/live/00826/00826/1496.ts
-#EXTINF:-1,AF-2STV
-http://37.187.175.177:8000/live/00826/00826/772.ts
-#EXTINF:-1,AF-Mouride (Senegal
-http://37.187.175.177:8000/live/00826/00826/631.ts
-#EXTINF:-1,AF-OM5 TV
-http://37.187.175.177:8000/live/00826/00826/2130.ts
-#EXTINF:-1,AFC-blage Channel
-http://37.187.175.177:8000/live/00826/00826/2132.ts
-#EXTINF:-1,AF-RTS1_senegal
-http://37.187.175.177:8000/live/00826/00826/478.ts
-#EXTINF:-1,AF-RTI 1
-http://37.187.175.177:8000/live/00826/00826/1541.ts
-#EXTINF:-1,AF-RTi2
-http://37.187.175.177:8000/live/00826/00826/777.ts
-#EXTINF:-1,AF-Impact TV(Burkina Faso )
-http://37.187.175.177:8000/live/00826/00826/1666.ts
-#EXTINF:-1,AF-Aci_TV (OM5_TV)
-http://37.187.175.177:8000/live/00826/00826/1585.ts
-#EXTINF:-1,AF-ORTM(mali)
-http://37.187.175.177:8000/live/00826/00826/1669.ts
-#EXTINF:-1,AF-RTV(RWANDA
-http://37.187.175.177:8000/live/00826/00826/2144.ts
-#EXTINF:-1,AFC-Smash TV
-http://37.187.175.177:8000/live/00826/00826/2146.ts
-#EXTINF:-1,AF-Kessben TV
-http://37.187.175.177:8000/live/00826/00826/488.ts
-#EXTINF:-1,AF-Rave_TV(Nigeria)
-http://37.187.175.177:8000/live/00826/00826/1580.ts
-#EXTINF:-1,AF-african 24
-http://37.187.175.177:8000/live/00826/00826/960.ts
-#EXTINF:-1,Af-sentv
-http://37.187.175.177:8000/live/00826/00826/1391.ts
-#EXTINF:-1,AF-ADBN(SA)
-http://37.187.175.177:8000/live/00826/00826/757.ts
-#EXTINF:-1,AF-TFM
-http://37.187.175.177:8000/live/00826/00826/1581.ts
-#EXTINF:-1,AF-Tele_Tchad
-http://37.187.175.177:8000/live/00826/00826/1709.ts
-#EXTINF:-1,AF-peace_TV
-http://37.187.175.177:8000/live/00826/00826/2024.ts
-#EXTINF:-1,AF-ANN_7
-http://37.187.175.177:8000/live/00826/00826/1582.ts
-#EXTINF:-1,AF-euro news
-http://37.187.175.177:8000/live/00826/00826/1572.ts
-#EXTINF:-1,AF-ABN TV voA
-http://37.187.175.177:8000/live/00826/00826/968.ts
-#EXTINF:-1,AF-Wazobia TV
-http://37.187.175.177:8000/live/00826/00826/967.ts
-#EXTINF:-1,AF-Diaspora24_sen
-http://37.187.175.177:8000/live/00826/00826/454.ts
-#EXTINF:-1,AF-MFM-TV_Music
-http://37.187.175.177:8000/live/00826/00826/451.ts
-#EXTINF:-1,AF-ETN
-http://37.187.175.177:8000/live/00826/00826/485.ts
-#EXTINF:-1,AF-Canal 225(Beinin)
-http://37.187.175.177:8000/live/00826/00826/750.ts
-#EXTINF:-1,AF-TVmana-1(Mz)
-http://37.187.175.177:8000/live/00826/00826/1575.ts
-#EXTINF:-1,AF-Afrique Media TV
-http://37.187.175.177:8000/live/00826/00826/2022.ts
-#EXTINF:-1,AF-france24
-http://37.187.175.177:8000/live/00826/00826/456.ts
-#EXTINF:-1,AF-NBS_tv
-http://37.187.175.177:8000/live/00826/00826/776.ts
-#EXTINF:-1,AF-Salvation TV
-http://37.187.175.177:8000/live/00826/00826/2493.ts
-#EXTINF:-1,AF-Dunamis tv(NG)
-http://37.187.175.177:8000/live/00826/00826/459.ts
- 
 
 
